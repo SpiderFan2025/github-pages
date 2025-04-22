@@ -1,4 +1,136 @@
-<header>
+<header><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spider-Man</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #cc0000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #cc0000;
+    }
+    img, iframe {
+      max-width: 100%;
+      display: block;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Spider-Man</h1>
+    <p>El superhéroe arácnido de Marvel</p>
+  </header>
+
+  <main>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg" alt="Spider-Man Cómic">
+
+    <h2>¿Quién es Spider-Man?</h2>
+    <p>Spider-Man es un superhéroe ficticio creado por el escritor Stan Lee y el dibujante Steve Ditko. Apareció por primera vez en Amazing Fantasy #15 en 1962, publicado por Marvel Comics.</p>
+
+    <h2>Identidad secreta</h2>
+    <p>Su nombre real es Peter Parker, un joven huérfano criado por sus tíos Ben y May. Después de ser mordido por una araña radiactiva, Peter obtiene habilidades especiales como fuerza sobrehumana, agilidad, y la capacidad de trepar paredes.</p>
+
+    <h2>Frase icónica</h2>
+    <p>"Un gran poder conlleva una gran responsabilidad."</p>
+
+    <h2>GIF de Spider-Man</h2>
+    <img src="https://media.giphy.com/media/J1ABRhlfvQNwIOvVwm/giphy.gif" alt="Spider-Man Gif">
+
+    <h2>Video de Spider-Man</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TYMMOjBUPMM" 
+            title="Spider-Man Trailer" frameborder="0" allowfullscreen>
+    </iframe>
+
+    <h2>En el cine</h2>
+    <p>Spider-Man ha sido interpretado por Tobey Maguire, Andrew Garfield y Tom Holland en diferentes adaptaciones cinematográficas.</p>
+  </main>
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spider-Man</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #cc0000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #cc0000;
+    }
+    img, iframe {
+      max-width: 100%;
+      display: block;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Spider-Man</h1>
+    <p>El superhéroe arácnido de Marvel</p>
+  </header>
+
+  <main>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg" alt="Spider-Man Cómic">
+
+    <h2>¿Quién es Spider-Man?</h2>
+    <p>Spider-Man es un superhéroe ficticio creado por el escritor Stan Lee y el dibujante Steve Ditko. Apareció por primera vez en Amazing Fantasy #15 en 1962, publicado por Marvel Comics.</p>
+
+    <h2>Identidad secreta</h2>
+    <p>Su nombre real es Peter Parker, un joven huérfano criado por sus tíos Ben y May. Después de ser mordido por una araña radiactiva, Peter obtiene habilidades especiales como fuerza sobrehumana, agilidad, y la capacidad de trepar paredes.</p>
+
+    <h2>Frase icónica</h2>
+    <p>"Un gran poder conlleva una gran responsabilidad."</p>
+
+    <h2>GIF de Spider-Man</h2>
+    <img src="https://media.giphy.com/media/J1ABRhlfvQNwIOvVwm/giphy.gif" alt="Spider-Man Gif">
+
+    <h2>Video de Spider-Man</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TYMMOjBUPMM" 
+            title="Spider-Man Trailer" frameborder="0" allowfullscreen>
+    </iframe>
+
+    <h2>En el cine</h2>
+    <p>Spider-Man ha sido interpretado por Tobey Maguire, Andrew Garfield y Tom Holland en diferentes adaptaciones cinematográficas.</p>
+  </main>
+</body>
+</html
 
 <!--
   <<< Author notes: Course header >>>
